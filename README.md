@@ -1,4 +1,4 @@
-# Welcome, my name is Roberto Alencar! 👋  
+# Welcome, my name is Alencar! 👋  
 Graduated in Information Systems, I currently work as an IT project analyst, leading software development teams for Agribusiness. 🚜  
 I'm an enthusiast and post-graduate in Information Security. 🔐  
 Studying and exploring the dev world. 👨🏽‍💻  
