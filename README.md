@@ -1,7 +1,8 @@
-# Bem vindo, me chamo Roberto Alencar! 👋
-Graduado em Sistemas da Informação, atualmente atuo como analista de projetos de TI, coordenando times de desenvolvimento de software para o Agronegócio. 🚜
-Sou entusiasta e pós graduado em Segurança da Informação. 🔐
-Estudando e me aventudando no mundo dev. 👨🏽‍💻
+# Welcome, my name is Roberto Alencar! 👋  
+Graduated in Information Systems, I currently work as an IT project analyst, leading software development teams for Agribusiness. 🚜  
+I'm an enthusiast and post-graduate in Information Security. 🔐  
+Studying and exploring the dev world. 👨🏽‍💻  
+Also learning and practicing English. 
 
 ## Contatos:
 
