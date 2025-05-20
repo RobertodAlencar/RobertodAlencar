@@ -1,6 +1,5 @@
 # Welcome, my name is Alencar! 👋  
-Graduated in Information Systems, I currently work as an IT project analyst, leading software development teams for Agribusiness. 🚜  
-I'm an enthusiast and post-graduate in Information Security. 🔐  
+Graduated in Information Systems, I currently work as an IT project analyst, leading software development teams for Agribusiness. 🚜    
 Studying and exploring the dev world. 👨🏽‍💻  
 Also learning and practicing my English. 
 
